@@ -79,8 +79,3 @@ let str="-100";
 // console.log(typeof num1, num1); // number 0
 
 
-
-
-
-
- 
