@@ -15,7 +15,6 @@ function debounce(func, delay){
 
     }
 }
-
 function callApi(e){
     console.log("Api called with value: ", e.target.value);
 }
