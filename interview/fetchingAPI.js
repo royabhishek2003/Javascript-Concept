@@ -1,3 +1,4 @@
+// fetching api using post method 
 async function sendData(){
 
     try{
