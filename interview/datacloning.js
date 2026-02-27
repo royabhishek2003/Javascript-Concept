@@ -1,4 +1,4 @@
-// ahallow copy =,{ ...}
+// shallow copy =,{ ...}
 
 // deep copy 
 // 1st method 
