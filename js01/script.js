@@ -72,7 +72,7 @@ let str="-100";
 // let num= +undefined;
 // console.log(typeof num, num); // number NaN
 
-// // difference bwteen null and undefined 
+// // difference between null and undefined 
 // console.log(typeof null); // object
 // console.log(null); // null
 // let num1= +null;
