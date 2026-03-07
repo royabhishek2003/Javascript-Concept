@@ -106,7 +106,3 @@ user2.name="Rahul";
 console.log(user2);
 console.log(user1);
 
-
-
-console.log("this is faltu line");
-
