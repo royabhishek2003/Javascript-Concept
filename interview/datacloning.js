@@ -54,3 +54,55 @@
 // console.log(arr2);
 // arr2[0]=2;
 // console.log(arr1);
+
+
+// method 4 
+
+// Top-level properties → copied by value
+// Nested objects/arrays → copied by reference
+
+// let user1={
+//     name:"Abhishek",
+//     age:22
+// }
+
+// let user2={};
+// // assign the value of user 1 into user 2
+// Object.assign(user2,user1);
+// user2.name="Kishan";
+// console.log(user1);
+
+// const user3={...user1};
+
+// behavior of spread operator 
+
+
+// Top-level properties → copied by value
+// Nested objects/arrays → copied by reference
+
+
+
+// user3.name="Rahul";
+// console.log(user3);
+// console.log(user1);
+
+
+// let arr1=[1,2,3,4];
+// let arr2= [...arr1];
+
+// arr2.push(5);
+// console.log(arr1);
+// console.log(arr2);
+
+let user1={
+    name:"abhishek",
+    address:{
+        city:"patna"
+    }
+}
+
+let user2={...user1};
+user2.name="Rahul";
+console.log(user2);
+console.log(user1);
+
