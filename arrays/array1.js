@@ -101,7 +101,7 @@
 
 // correct Numeric sorting
 
-// let arr=[10,34,23,67,1,23];
+// let arr=[10,34,23,67,1,23,24];
 
 // arr.sort((a,b)=>a-b);
 // console.log(arr);
