@@ -7,9 +7,7 @@
 // Starts with function keyword
 
 // Has a name
-
 // Is hoisted completely
-
 // Can be called before it appears in code
 
 // Example:
@@ -22,7 +20,6 @@
 // This works because JS hoists the entire function to the top.
 
 // Internally JS treats it like:
-
 // function greet() {
 //     console.log("Hello");
 // }
