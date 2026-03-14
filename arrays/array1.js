@@ -106,7 +106,7 @@
 // arr.sort((a,b)=>a-b);
 // console.log(arr);
 
-let arr1=[1,2,3,4];
+
 
 
 
